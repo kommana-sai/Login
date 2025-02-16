@@ -1,0 +1,40 @@
+.form{
+    
+     background-color: blueviolet;
+     padding: 10px;
+     align-items: center;
+    justify-items: center;
+    align-items: center;
+    justify-items: center;
+    background-size: cover;
+    height: 350px;
+    margin-bottom: 180px;
+
+
+}
+.add{
+    justify-content: center;
+    border: 2px solid green;
+    align-items: center;
+    height: 350px;
+    width: 250px;
+    justify-items: center;
+    
+
+
+    
+}
+#btn{
+     margin-top: 20px;
+}
+h2{
+  
+}
+body{
+    align-items: center;
+    justify-items: center;
+    margin-top: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
